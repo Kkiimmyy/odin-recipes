@@ -1,3 +1,24 @@
+body {
+    background-color: #282828;
+    color: #fbf1c7;
+}
+
 .title {
     text-align: center;
+}
+
+.list {
+    color: orangered;
+}
+
+.description {
+    color: #458588;
+}
+
+.ingredients {
+    color: #b16286;
+}
+
+.steps {
+    color: #98971a;
 }
